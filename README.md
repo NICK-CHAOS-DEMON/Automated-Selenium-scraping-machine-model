@@ -7,12 +7,14 @@ easy change
 Feature
 
 self report progress
+![easy change when reuse ](https://user-images.githubusercontent.com/117721475/205112064-5f21600e-ed81-44de-9437-039e9aed4350.png)
 
 Part Smart "click"
 
 auto storage
 
 easy change when crashed.
+![easy change when reuse ](https://user-images.githubusercontent.com/117721475/205112064-5f21600e-ed81-44de-9437-039e9aed4350.png)
 
 clean data structure for easy use and read.
 (one x use all)

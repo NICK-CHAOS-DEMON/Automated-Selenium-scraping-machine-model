@@ -5,10 +5,12 @@
 Feature
 
 self report progress
+![running ](https://user-images.githubusercontent.com/117721475/205119036-637b01ee-4dab-4380-8826-f0892bc3dd49.png)
 
 Part Smart "click"
 
 auto storage
+
 
 easy change when crashed.
 ![easy change when reuse ](https://user-images.githubusercontent.com/117721475/205112064-5f21600e-ed81-44de-9437-039e9aed4350.png)
